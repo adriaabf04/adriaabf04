@@ -22,6 +22,7 @@ Soy un programador apasionado con experiencia en el desarrollo de aplicaciones w
     <img src="https://github.com/user-attachments/assets/82441a53-7fdc-4810-89d3-9859e6845eb7" />
     <img src="https://github.com/user-attachments/assets/d81d51a8-fa1e-4612-8097-67981a23600e" />
     <img src="https://github.com/user-attachments/assets/1c606c84-9bee-44a9-a191-1cf0fda6b11d" />
+    <img src="https://github.com/user-attachments/assets/051ddc0c-8e28-4e08-acdd-f7ebd870f1c2" />
 </div>
 <!--
 **adriaabf04/adriaabf04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
