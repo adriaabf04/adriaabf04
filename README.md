@@ -1,4 +1,9 @@
-## Hi there 👋
+## Hi, I'm Adrian 👋
+
+![imagen](https://github.com/user-attachments/assets/97720b8c-ba47-43f0-92a5-4837d1759d1c)
+
+
+
 
 <!--
 **adriaabf04/adriaabf04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
